@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p align="center">I am a graduate of Automation and Robotics at the Warsaw University of Technology.  Now I'm learning programming (mainly in Python).</p>
+<p align="center">Graduate of Automation and Robotics at the Warsaw University of Technology.  Currently learning programming (mainly Python).</p>
 
 
 # 💻 Tech Stack:

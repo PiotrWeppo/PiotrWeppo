@@ -1,5 +1,8 @@
 # 💫 About Me:
-<p align="center">Graduate of Automation and Robotics at the Warsaw University of Technology.  Currently learning programming (mainly Python).</p>
+<p align="center">Graduate of Automation and Robotics at the Warsaw University of Technology.</br>  
+  Student of Computer Science (Spec. Applied Data Science and AI) at the Vistula University.</br>
+  I mostly develop in Python.
+</p>
 
 
 # 💻 Tech Stack:
@@ -10,8 +13,8 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PiotrWeppo&theme=dark&hide_border=false&include_all_commits=true&count_private=false"></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiotrWeppo&theme=dark&hide_border=false"></br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PiotrWeppo&theme=dark&hide_border=false&include_all_commits=true&count_private=true"></br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PiotrWeppo&theme=dark&mode=weekly" alt="GitHub Streak" /></a></br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PiotrWeppo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></br>
 </p>
 
